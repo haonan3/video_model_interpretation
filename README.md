@@ -4,6 +4,28 @@ This document gathers a variety of resources—from GitHub repositories and inte
 
 ---
 
+## Overview
+
+- **Analytical Toolkits & Visualizations:**  
+  Repositories such as [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens?tab=readme-ov-file), [llava-mechanism](https://github.com/zepingyu0512/llava-mechanism/tree/main), [llava-interp](https://github.com/clemneo/llava-interp), and [pyvene](https://github.com/stanfordnlp/pyvene) provide the software and notebooks needed to visually dissect transformer behaviors, making abstract model internals accessible and interpretable.
+
+- **Curated Resource Lists:**  
+  The awesome lists ([Awesome LLM Mechanism Analysis](https://github.com/HaitaoMao/Awesome-LLM-Mechanism-Analysis) and [awesome-llm-understanding-mechanism](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism?tab=readme-ov-file)) compile research papers, tools, and blog posts, thereby serving as comprehensive guides for researchers and enthusiasts delving into LLM interpretability.
+
+- **Interactive Demos & Notebooks:**  
+  The [TransformerLens Exploratory Analysis Demo](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Exploratory_Analysis_Demo.ipynb#scrollTo=hYOEX3xpQoVz) offers a hands-on way to engage with transformer data, reinforcing concepts that are also discussed in the academic papers and blog posts.
+
+- **Research Papers & In-Depth Analyses:**  
+  A suite of arXiv papers (IDs such as 2404.14082, 2310.01405, 2211.00593, and others) provides the theoretical and experimental backbone, elaborating on mechanisms like in-context learning, induction heads, and the internal dynamics of transformer models. These works help bridge the gap between raw code implementations and high-level model interpretations.
+
+- **Accessible Explanations & Industry News:**  
+  Blog posts from Transformer Circuits (e.g., [In-Context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) and [Toy Model](https://transformer-circuits.pub/2022/toy_model/index.html)) present complex research in a more digestible format, while industry updates such as Anthropic’s [Golden Gate Claude announcement](https://www.anthropic.com/news/golden-gate-claude) demonstrate how these theoretical insights are driving real-world LLM innovations.
+
+- **Visualization & Interactive Exploration:**  
+  Websites like [functions.baulab.info](https://functions.baulab.info/) offer interactive visualizations that complement the static analysis found in both code repositories and research papers, fostering a more intuitive grasp of underlying model functions.
+
+---
+
 ## Resource Classifications
 
 1. **TransformerLens Repository (GitHub)**  
@@ -101,27 +123,3 @@ This document gathers a variety of resources—from GitHub repositories and inte
 24. **ArXiv Paper 2407.10827v1**  
     _URL:_ [2407.10827v1](https://arxiv.org/pdf/2407.10827v1)  
     An initial version of a study exploring novel aspects of transformer model mechanisms.
-
----
-
-## Interconnections & Thematic Overview
-
-- **Analytical Toolkits & Visualizations:**  
-  Repositories such as [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens?tab=readme-ov-file), [llava-mechanism](https://github.com/zepingyu0512/llava-mechanism/tree/main), [llava-interp](https://github.com/clemneo/llava-interp), and [pyvene](https://github.com/stanfordnlp/pyvene) provide the software and notebooks needed to visually dissect transformer behaviors, making abstract model internals accessible and interpretable.
-
-- **Curated Resource Lists:**  
-  The awesome lists ([Awesome LLM Mechanism Analysis](https://github.com/HaitaoMao/Awesome-LLM-Mechanism-Analysis) and [awesome-llm-understanding-mechanism](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism?tab=readme-ov-file)) compile research papers, tools, and blog posts, thereby serving as comprehensive guides for researchers and enthusiasts delving into LLM interpretability.
-
-- **Interactive Demos & Notebooks:**  
-  The [TransformerLens Exploratory Analysis Demo](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Exploratory_Analysis_Demo.ipynb#scrollTo=hYOEX3xpQoVz) offers a hands-on way to engage with transformer data, reinforcing concepts that are also discussed in the academic papers and blog posts.
-
-- **Research Papers & In-Depth Analyses:**  
-  A suite of arXiv papers (IDs such as 2404.14082, 2310.01405, 2211.00593, and others) provides the theoretical and experimental backbone, elaborating on mechanisms like in-context learning, induction heads, and the internal dynamics of transformer models. These works help bridge the gap between raw code implementations and high-level model interpretations.
-
-- **Accessible Explanations & Industry News:**  
-  Blog posts from Transformer Circuits (e.g., [In-Context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) and [Toy Model](https://transformer-circuits.pub/2022/toy_model/index.html)) present complex research in a more digestible format, while industry updates such as Anthropic’s [Golden Gate Claude announcement](https://www.anthropic.com/news/golden-gate-claude) demonstrate how these theoretical insights are driving real-world LLM innovations.
-
-- **Visualization & Interactive Exploration:**  
-  Websites like [functions.baulab.info](https://functions.baulab.info/) offer interactive visualizations that complement the static analysis found in both code repositories and research papers, fostering a more intuitive grasp of underlying model functions.
-
-
