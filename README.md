@@ -8,99 +8,99 @@ This document gathers a variety of resources—from GitHub repositories and inte
 
 1. **TransformerLens Repository (GitHub)**  
    _URL:_ [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens?tab=readme-ov-file)  
-   _Intro:_ A toolkit designed to visualize and analyze the internal mechanisms of transformer models.
+   A toolkit designed to visualize and analyze the internal mechanisms of transformer models.
 
 2. **LLAVA Mechanism Repository (GitHub)**  
    _URL:_ [llava-mechanism](https://github.com/zepingyu0512/llava-mechanism/tree/main)  
-   _Intro:_ A repository focused on exploring and demystifying the mechanisms behind the LLAVA system.
+   A repository focused on exploring and demystifying the mechanisms behind the LLAVA system.
 
 3. **LLAVA Visualization Notebook (GitHub)**  
    _URL:_ [LLava_visualize_code.ipynb](https://github.com/zepingyu0512/llava-mechanism/blob/main/Llava_visualize_code.ipynb)  
-   _Intro:_ A Jupyter Notebook that demonstrates how to visualize model behavior and mechanisms in LLAVA.
+   A Jupyter Notebook that demonstrates how to visualize model behavior and mechanisms in LLAVA.
 
 4. **LLAVA Interpreter Repository (GitHub)**  
    _URL:_ [llava-interp](https://github.com/clemneo/llava-interp)  
-   _Intro:_ A set of tools and scripts aimed at interpreting and understanding the decision processes of the LLAVA model.
+   A set of tools and scripts aimed at interpreting and understanding the decision processes of the LLAVA model.
 
 5. **Pyvene (GitHub)**  
    _URL:_ [pyvene](https://github.com/stanfordnlp/pyvene)  
-   _Intro:_ A Python library from Stanford NLP that aids in analyzing and visualizing aspects of NLP models, including transformer internals.
+   A Python library from Stanford NLP that aids in analyzing and visualizing aspects of NLP models, including transformer internals.
 
 6. **Awesome LLM Mechanism Analysis (GitHub)**  
    _URL:_ [Awesome-LLM-Mechanism-Analysis](https://github.com/HaitaoMao/Awesome-LLM-Mechanism-Analysis)  
-   _Intro:_ A curated list of resources and research focused on the analysis of large language model mechanisms.
+   A curated list of resources and research focused on the analysis of large language model mechanisms.
 
 7. **TransformerLens Exploratory Analysis Demo (Colab Notebook)**  
    _URL:_ [Exploratory Analysis Demo](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Exploratory_Analysis_Demo.ipynb#scrollTo=hYOEX3xpQoVz)  
-   _Intro:_ An interactive Colab notebook that demonstrates exploratory analysis techniques using TransformerLens.
+   An interactive Colab notebook that demonstrates exploratory analysis techniques using TransformerLens.
 
 8. **ArXiv Paper 2404.14082**  
    _URL:_ [2404.14082](https://arxiv.org/pdf/2404.14082)  
-   _Intro:_ A research paper presenting new insights into transformer mechanism interpretability.
+   A research paper presenting new insights into transformer mechanism interpretability.
 
 9. **ArXiv Paper 2310.01405**  
    _URL:_ [2310.01405](https://arxiv.org/pdf/2310.01405)  
-   _Intro:_ A study exploring key aspects of transformer models, contributing to the understanding of their internal workings.
+   A study exploring key aspects of transformer models, contributing to the understanding of their internal workings.
 
 10. **Anthropic Golden Gate Claude Announcement**  
     _URL:_ [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)  
-    _Intro:_ A news article from Anthropic announcing their Golden Gate Claude model and its advancements in LLM capabilities.
+    A news article from Anthropic announcing their Golden Gate Claude model and its advancements in LLM capabilities.
 
 11. **In-Context Learning and Induction Heads (Transformer Circuits Blog)**  
     _URL:_ [In-Context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)  
-    _Intro:_ A blog post that explains how transformers learn from context and the critical role of induction heads in this process.
+    A blog post that explains how transformers learn from context and the critical role of induction heads in this process.
 
 12. **Toy Model Analysis (Transformer Circuits Blog)**  
     _URL:_ [Toy Model](https://transformer-circuits.pub/2022/toy_model/index.html)  
-    _Intro:_ A blog post using a simplified toy model to demonstrate and explain core transformer mechanisms.
+    A blog post using a simplified toy model to demonstrate and explain core transformer mechanisms.
 
 13. **ArXiv Paper 2211.00593**  
     _URL:_ [2211.00593](https://arxiv.org/pdf/2211.00593)  
-    _Intro:_ A research paper offering in-depth analysis into transformer interpretability and the underlying mechanisms of these models.
+    A research paper offering in-depth analysis into transformer interpretability and the underlying mechanisms of these models.
 
 14. **ArXiv Paper 2402.14811**  
     _URL:_ [2402.14811](https://arxiv.org/pdf/2402.14811)  
-    _Intro:_ A scholarly article examining novel findings in transformer mechanism analysis and model interpretability.
+    A scholarly article examining novel findings in transformer mechanism analysis and model interpretability.
 
 15. **ArXiv Paper 2406.11944**  
     _URL:_ [2406.11944](https://arxiv.org/pdf/2406.11944)  
-    _Intro:_ A research paper focused on advanced topics in transformer internals and the dynamics of LLM mechanisms.
+    A research paper focused on advanced topics in transformer internals and the dynamics of LLM mechanisms.
 
 16. **Baulab Functions**  
     _URL:_ [functions.baulab.info](https://functions.baulab.info/)  
-    _Intro:_ An interactive website offering visualization tools for exploring functions relevant to understanding LLM mechanisms.
+    An interactive website offering visualization tools for exploring functions relevant to understanding LLM mechanisms.
 
 17. **ArXiv Paper 2410.07149**  
     _URL:_ [2410.07149](https://arxiv.org/pdf/2410.07149)  
-    _Intro:_ A recent research paper that delves into new developments in transformer interpretability.
+    A recent research paper that delves into new developments in transformer interpretability.
 
 18. **ArXiv Paper 2411.10950**  
     _URL:_ [2411.10950](https://arxiv.org/pdf/2411.10950)  
-    _Intro:_ A study presenting innovative insights into the internal workings and mechanisms of transformer models.
+    A study presenting innovative insights into the internal workings and mechanisms of transformer models.
 
 19. **Awesome LLM Understanding Mechanism (GitHub)**  
     _URL:_ [awesome-llm-understanding-mechanism](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism?tab=readme-ov-file)  
-    _Intro:_ A curated repository compiling diverse resources aimed at demystifying the mechanisms behind large language models.
+    A curated repository compiling diverse resources aimed at demystifying the mechanisms behind large language models.
 
 20. **ArXiv Paper 2401.01967**  
     _URL:_ [2401.01967](https://arxiv.org/pdf/2401.01967)  
-    _Intro:_ A research paper investigating dynamics and interpretability aspects of transformer model behavior.
+    A research paper investigating dynamics and interpretability aspects of transformer model behavior.
 
 21. **ArXiv Paper 2411.17491**  
     _URL:_ [2411.17491](https://arxiv.org/pdf/2411.17491)  
-    _Intro:_ A scholarly article that explores new theories and experimental findings on transformer internals.
+    A scholarly article that explores new theories and experimental findings on transformer internals.
 
 22. **ArXiv Paper 2410.07149v1**  
     _URL:_ [2410.07149v1](https://arxiv.org/pdf/2410.07149v1)  
-    _Intro:_ The initial version of a research paper offering early insights into transformer interpretability.
+    The initial version of a research paper offering early insights into transformer interpretability.
 
 23. **ArXiv Paper 2402.16837v1**  
     _URL:_ [2402.16837v1](https://arxiv.org/pdf/2402.16837v1)  
-    _Intro:_ An early research paper that provides foundational perspectives on the mechanisms within transformer architectures.
+    An early research paper that provides foundational perspectives on the mechanisms within transformer architectures.
 
 24. **ArXiv Paper 2407.10827v1**  
     _URL:_ [2407.10827v1](https://arxiv.org/pdf/2407.10827v1)  
-    _Intro:_ An initial version of a study exploring novel aspects of transformer model mechanisms.
+    An initial version of a study exploring novel aspects of transformer model mechanisms.
 
 ---
 
@@ -124,9 +124,4 @@ This document gathers a variety of resources—from GitHub repositories and inte
 - **Visualization & Interactive Exploration:**  
   Websites like [functions.baulab.info](https://functions.baulab.info/) offer interactive visualizations that complement the static analysis found in both code repositories and research papers, fostering a more intuitive grasp of underlying model functions.
 
----
-
-## Conclusion
-
-Together, these resources form an interconnected ecosystem that spans practical toolkits, curated guides, interactive experiments, and rigorous research. They collectively advance our understanding of transformer mechanisms and LLM interpretability—from the underlying code to the high-level theoretical concepts—empowering researchers and practitioners to explore, visualize, and innovate in the field.
 
